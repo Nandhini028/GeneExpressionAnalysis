@@ -4,3 +4,7 @@ Objective: 01 - Visualization of gene expression - VOLCANOPLOT
 Objective: 02 - Data manipulation using GEOquery 
 Objective: 03 - Seurat workflow for RNA-SEq analysis
 
+
+Data retrived from:
+1. NCBI
+2. galaxy.org
